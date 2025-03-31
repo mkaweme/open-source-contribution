@@ -1,7 +1,9 @@
-# This is my Readme
+# This is my readme
 
-I created this folder and added my readme file in this repo.
+I created the react folder and added this readme
 
-This is my first open Source contribution
+This is my first open source contribution and first pull request
 
-Happy to contribute to open source.
+# Add your name
+
+Makoba Kaweme
